@@ -1,7 +1,7 @@
 # 📊 Madhav Ecommerce Sales Dashboard
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![Data Analysis](https://img.shields.io/badge/Data_Analytics-HR-blue?style=for-the-badge)](#)
+[![Data Analysis](https://img.shields.io/badge/Data_Analytics-ECom-blue?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
 An interactive, comprehensive Power BI Dashboard developed to analyze sales and financial health for Madhav Ecommerce. This analytical solution tracks core performance KPIs, breakdown metrics by category, and regional performance trends to drive data-backed retail decisions.
@@ -50,5 +50,5 @@ The report houses key analytical components optimized for immediate executive ov
 
 📸 Dashboard Preview
 
-Show what the Dashboard look like - 
+Show what the Dashboard look like - https://github.com/ayushrivastava195/MadhavECommerce/blob/main/MadhavEComDashboard.jpg
 
