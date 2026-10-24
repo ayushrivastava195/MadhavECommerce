@@ -50,5 +50,7 @@ The report houses key analytical components optimized for immediate executive ov
 
 📸 Dashboard Preview
 
+
+![Customer Behavior Dashboard](https://github.com/ayushrivastava195/MadhavECommerce/blob/main/MadhavEComDashboard.jpg)
 Show what the Dashboard look like - https://github.com/ayushrivastava195/MadhavECommerce/blob/main/MadhavEComDashboard.jpg
 
